@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ezequielmmarques&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmmarques&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ezequielmoreira)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Think about it
 *"Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá."*  - Ayrton Senna
 
