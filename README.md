@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer Sênior in TQI Uberlândia, Minas Gerais<br>🤝 I've been collaborating with Claro projects<br>🌱 I’m currently specializing Microservices | Spring | Java<br> ✍️ I keep learning every day
+🔭 I’m currently working as Software Engineer Sênior <br>🤝 I've been collaborating with Claro projects<br>🌱 I’m currently specializing Microservices | Spring | Java<br> ✍️ I keep learning every day
 
 
 ## 🌐 Socials:
